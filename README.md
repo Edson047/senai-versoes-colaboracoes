@@ -1,5 +1,7 @@
 # senai-versoes-colaboracoes
 
-readme de exemplo 
+README de exemplo
 
+lrmbrei do comando: git commit 
 lembrei do comando: git status
+
